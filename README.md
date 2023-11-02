@@ -6,7 +6,7 @@ instructions below to submit an expense or grant applicaiton.
 CUCK.'s purpose is to:
 
 > Rebuke the church, cuck the state, and out compete big businesses with
-> censorship resistant public goods
+> censorship resistant public goods.
 
 > We exist to reduce our collective reliance on committees, and cuck the
 > remaining ones.
@@ -25,7 +25,7 @@ below.
 ## Applying for a Grant
 
 To apply for a grant, make a PR to the appriate directory  in this repo
-`./grants` witha a markdown file that follows the example format. It should
+`./grants` with a markdown file that follows the example format. It should
 cover what is novel about your project, why its important (bonus points for not
 being cringe), and lastly what and how much money is needed. If the amount of
 money is flexible, please note that.
@@ -42,7 +42,7 @@ Funds to help pay for the development of a novel or experimental technology, esp
 
 ### Retrospective Research Grants
 
-Retrospective Research Grants. There was already some well written and received research that helps cuck committees in some way (could be privacy tech!). Since the grant is retrospective, the goal of these grants is to help align the researcher with the rest of the Celestia ecosystem, and encourage others to build on the same research
+Retrospective Research Grants. There was already some well written and received research that helps cuck committees in some way (could be privacy tech!). Since the grant is retrospective, the goal of these grants is to help align the researcher with the rest of the Celestia ecosystem, and encourage others to build on the same research.
 
 ### New Research Grants
 
